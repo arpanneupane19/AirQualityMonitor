@@ -1,12 +1,9 @@
-# Air Quality Monitor by Arpan Neupane.
-# Created by Arpan Neupane on 7/28/2020.
-# Copyright © ArpanNeupane. All rights reserved.
-# Downloaded from "https://github.com/arpanneupane19/AirQualityMonitor".
-
+# Created by Arpan Neupane.
+# Copyright © 2020 Arpan Neupane. All rights reserved.
 
 from tkinter import *
 from PIL import ImageTk, Image
-import requests 
+import requests
 import json
 
 root = Tk()
